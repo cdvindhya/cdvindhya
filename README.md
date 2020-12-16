@@ -2,7 +2,7 @@
 
 I'm Vindhya. I'm currently studying Computer Science at Purdue University. Read on to see what I've been up to and feel free to connect with me on [LinkedIn][1].
 
-- 🔭 I’m currently working on a 3D-Model Rendering Web App for Winter Hacklympics 2020
+- 🔭 I’m currently working on an interactive Web App using Cesium.js for Winter Hacklympics 2020
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on anything creative involving a new technology
 - 😄 Pronouns: she/her
