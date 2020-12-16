@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Vindhya and I'm currently studying Computer Science at Purdue University. I'm from Hyderabad (India) and am currently based in West Lafayette, Indiana. You can find me on [LinkedIn][1].
+I'm Vindhya. I'm currently studying Computer Science at Purdue University. Read on to see what I've been up to and feel free to connect with me on [LinkedIn][1].
 
 - 🔭 I’m currently working on a 3D-Model Rendering Web App for Winter Hacklympics 2020
 - 🌱 I’m currently learning AWS
