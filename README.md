@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Vindhya. I'm currently studying Computer Science at Purdue University. Read on to see what I've been up to and feel free to connect with me on [LinkedIn][1].
+I'm Vindhya. I'm studying Computer Science at Purdue University. Read on to see what I've been up to and feel free to connect with me on [LinkedIn][1].
 
-- 🔭 I’m currently working on an interactive Web App using Cesium.js for Winter Hacklympics 2020
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on anything creative involving a new technology
+- 🔭 I’m building a React/Firebase web app for Rose Hacks 2021
+- 🌱 I’m working on finishing an ML course
+- 👯 I’d love to collaborate on a creative project involving a new technology
 - 😄 Pronouns: she/her
 
 ## 🔧 Technologies & Tools
