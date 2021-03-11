@@ -5,7 +5,7 @@ I'm Vindhya. I'm studying Computer Science at Purdue University. Read on to see 
 <!-- - 🔭 I’m building a React/Firebase web app for Rose Hacks 2021 -->
 - 🌱 I’m currently working on coursework
 - 👯 I’d love to collaborate on a creative project involving a new technology
-- 😄 Pronouns: she/her
+- 😄 Pronouns: She/Her/Hers
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
