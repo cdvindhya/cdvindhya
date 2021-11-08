@@ -3,7 +3,7 @@
 I'm Vindhya. I'm studying Computer Science at Purdue University. Read on to see what I've been up to and feel free to connect with me on [LinkedIn][1].
 
 <!-- - 🔭 I’m building a React/Firebase web app for Rose Hacks 2021 -->
-- 🌱 I’m currently interning at Cisco as a part of the DCN team
+- 🌱 I’m currently interning at Amazon as a part of the CodeGuru team
 - 👯 I’d love to collaborate on a creative project involving a new technology
 - 😄 Pronouns: She/Her/Hers
 
